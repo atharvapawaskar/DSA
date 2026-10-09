@@ -75,3 +75,15 @@ Progress takes time, and this repository is a record of that process.
 "Small steps every day lead to big results over time."
 
 ## ⭐ Thanks for stopping by. Feel free to explore my solutions!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/atharvapawaskar/DSA/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/atharvapawaskar/DSA/tree/master/0118-pascals-triangle) |
+<!---LeetCode Topics End-->
