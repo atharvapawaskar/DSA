@@ -88,4 +88,8 @@ Progress takes time, and this repository is a record of that process.
 | ------- |
 | [0118-pascals-triangle](https://github.com/atharvapawaskar/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvapawaskar/DSA/tree/master/0119-pascals-triangle-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/atharvapawaskar/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
