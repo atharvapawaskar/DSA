@@ -81,6 +81,7 @@ Progress takes time, and this repository is a record of that process.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atharvapawaskar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/atharvapawaskar/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvapawaskar/DSA/tree/master/0119-pascals-triangle-ii) |
 ## Dynamic Programming
@@ -93,4 +94,8 @@ Progress takes time, and this repository is a record of that process.
 | ------- |
 | [0007-reverse-integer](https://github.com/atharvapawaskar/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/atharvapawaskar/DSA/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atharvapawaskar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
