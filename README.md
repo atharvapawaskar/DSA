@@ -81,6 +81,7 @@ Progress takes time, and this repository is a record of that process.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/atharvapawaskar/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvapawaskar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/atharvapawaskar/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/atharvapawaskar/DSA/tree/master/0118-pascals-triangle) |
@@ -98,10 +99,12 @@ Progress takes time, and this repository is a record of that process.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/atharvapawaskar/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvapawaskar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/atharvapawaskar/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/atharvapawaskar/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/atharvapawaskar/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
