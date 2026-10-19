@@ -87,6 +87,7 @@ Progress takes time, and this repository is a record of that process.
 | [0118-pascals-triangle](https://github.com/atharvapawaskar/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvapawaskar/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0704-binary-search](https://github.com/atharvapawaskar/DSA/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/atharvapawaskar/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,4 +113,9 @@ Progress takes time, and this repository is a record of that process.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/atharvapawaskar/DSA/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/atharvapawaskar/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/atharvapawaskar/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
