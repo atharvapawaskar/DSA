@@ -86,6 +86,7 @@ Progress takes time, and this repository is a record of that process.
 | [0088-merge-sorted-array](https://github.com/atharvapawaskar/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/atharvapawaskar/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvapawaskar/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0704-binary-search](https://github.com/atharvapawaskar/DSA/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +108,8 @@ Progress takes time, and this repository is a record of that process.
 | ------- |
 | [0016-3sum-closest](https://github.com/atharvapawaskar/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/atharvapawaskar/DSA/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/atharvapawaskar/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
